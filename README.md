@@ -2,7 +2,7 @@
 
 I'm Jonny
 
-- 🌱 I’m currently learning: The MERN stack and AWS
+- 🌱 I’m currently learning: The MERN stack, .NET, and AWS
 - 💬 Ask me about: Life
 - 📫 How to reach me: email @ j.p.sharrock1@gmail.com or via smoke signal
 <!--
